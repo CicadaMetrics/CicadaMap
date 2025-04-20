@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Stats</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <button id="backBtn" style="background-color: #5C8B8A  ; color: #FF5733  ; margin-top: 10px; margin-left: 10px; position: absolute;">Back button</button>
+  
+  <div class="stats-container">
+    <img src="logo-tsunami.png" class="logo" style="width: 150px; height: auto; margin-top: 30px;" />
+    <h1 class="title">Results</h1>
+    <div id="tokenDisplay" class="token-address">Token name: <span id="userTokenInput"></span></div>
+    <div class="result-box">
+    <div class="result-row">
+        <span class="label">Real-Time Alert:</span>
+        <span class="value" id="realTimeAlert"></span>
+    </div>
+    <div class="result-row">
+        <span class="label">Volume Spike:</span>
+        <span class="value" id="volumeSpike"></span>
+    </div>
+    <div class="result-row">
+        <span class="label">Smart Wallet Signal:</span>
+        <span class="value" id="smartWalletSignal"></span>
+    </div>
+    <div class="result-row">
+        <span class="label">Whale Presence:</span>
+        <span class="value" id="whalePresence"></span>
+    </div>
+    <div class="result-row">
+        <span class="label">Token Pulse Grade:</span>
+        <span class="value" id="tokenPulseGrade"></span>
+    </div>
+    <div class="result-row">
+        <span class="label">Liquidity Depth Score:</span>
+        <span class="value" id="liquidityDepthScore"></span>
+    </div>
+  <script src="stats.js"></script>
+  
+  <!-- Buttons for navigation -->
+  <button id="exampleBtn">Go to Next Screen</button>
+  <button id="backBtn">Back to Popup</button>
+  <div class="example-container" style="position: absolute; top: 10px; right: 10px;">
+    <button id="exampleBtn" style="background-color: #5C8B8A  ; color: #FF5733  ; border: none; padding: 10px; cursor: pointer;">Example</button>
+  </div>
+</body>
+</html>
