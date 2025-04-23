@@ -90,7 +90,8 @@ We welcome **contributors**! If you want to improve **CicadaMap** or add new fea
 
 ## 📬 **Contact**:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: cicadamap@gmail.com
 - **GitHub**: [CicadaMap GitHub](https://github.com/CicadaMap)
+- **Gitbook**: [CicadaMap Gitbook](https://cicadametrics.gitbook.io/cicadametrics)
 - **Twitter**: [@CicadaMapOfficial](https://twitter.com/CicadaMapOfficial)
 - **Site**: [CicadaMap Site](https://discord.gg/YourInvite)
