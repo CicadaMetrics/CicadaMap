@@ -161,5 +161,5 @@ We welcome **contributors**! If you want to improve **CicadaMap** or add new fea
 - **Email**: cicadamap@gmail.com
 - **GitHub**: [CicadaMap GitHub](https://github.com/CicadaMap)
 - **Gitbook**: [CicadaMap Gitbook](https://cicadametrics.gitbook.io/cicadametrics)
-- **Twitter**: [@CicadaMapOfficial](https://twitter.com/CicadaMapOfficial)
+- **Twitter**: [@CicadaMapOfficial]([https://twitter.com/CicadaMap](https://x.com/Cicadamap))
 - **Site**: [CicadaMap Site](https://discord.gg/YourInvite)
