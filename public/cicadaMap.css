@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+  background: #f4f6fa;
+  margin: 0;
+  padding: 20px;
+}
+#mapContainer {
+  width: 100%;
+  height: 500px;
+  background: #e9edf1;
+  border: 1px solid #ccc;
+}
