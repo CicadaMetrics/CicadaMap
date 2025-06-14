@@ -40,12 +40,12 @@
 ---
 # 📬 **Contact**:
 
-- **Email**: cicadamap@gmail.com
-- **Site**: [CicadaMap Site](https://cicadamap.com)
-- **Chrome Extension**: [CicadaMap Extension](https://chromewebstore.google.com/detail/cicadamap/ifpofpfphhnkfeoaofaobmmngooohjee)
+- **Email**: cicadamapfor@gmail.com
+- **Site**: [CicadaMap Site](https://cicadamap.app)
+- **Chrome Extension**: [CicadaMap Extension](https://chromewebstore.google.com/detail/cicada/ifpofpfphhnkfeoaofaobmmngooohjee)
 - **GitHub**: [CicadaMap GitHub](https://github.com/CicadaMap)
 - **Gitbook**: [CicadaMap Gitbook](https://cicadametrics.gitbook.io/cicadametrics)
-- **Twitter**: [@CicadaMapOfficial](https://x.com/Cicadamap)
+- **Twitter**: [@CicadaMap](https://x.com/Cicadamap)
 ---
 
 # 🗺️ CicadaMap Roadmap
